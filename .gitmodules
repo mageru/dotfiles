@@ -51,4 +51,4 @@
 	url = https://github.com/tpope/vim-haml.git
 [submodule ".vim/bundle/vim-togglehloverlength"]
 	path = .vim/bundle/vim-togglehloverlength
-	url = https://github.com:halcyon/vim-togglehloverlength.git
+	url = https://github.com/halcyon/vim-togglehloverlength.git
